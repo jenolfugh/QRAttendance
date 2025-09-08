@@ -1,1 +1,1 @@
-console.log("Hello, Railway!");
+console.log("Attendance QR system ready");
